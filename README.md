@@ -12,3 +12,10 @@ Doki Doki Literature Club But Bad is a fan made project because we were extremel
  · Levino: Coder & director
 
 - still no writer etc
+
+** VA List W/ Char **
+- Arianna: Yuri
+- Aryam: Natsuki
+- Valeria: Monika
+- Sachary: Sayori
+- Chris: Mc
