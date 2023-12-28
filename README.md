@@ -4,18 +4,35 @@ Doki Doki Literature Club But Bad is a fan made project because we were extremel
 
 **ROLES LIST**
 
- - Aryam: Artist & VA
- - Arianna: Artist & VA
- - Valeria: VA
+ - Fae: Artist & VA
+ - Chu: Artist & VA
+ - SilverMoon: VA
  - Chris: VA
- - Sachary: VA
- - Levino: Coder & director
+ - Ellie: Artist & VA
+ - Levino: Coder & Director
 
 - still no writer etc
 
 ** VA List W/ Char **
- - Arianna: Yuri
- - Aryam: Natsuki
- - Valeria: Monika
- - Sachary: Sayori
+ - Chu: Yuri
+ - Fae: Natsuki
+ - SilverMoon: Monika
+ - Ellie: Sayori
  - Chris: Mc
+
+## SOCIALS
+
+ - Fae
+    - Discord: emuootorii
+ - Chu
+    - Discord: .idontknowausername
+    - TikTok: idk_weird43
+ - SV
+    
+ - Chris
+    
+ - Ellie
+    - Discord: ellie2kind
+ - Levino
+    - Discord: _monk3
+ - Chris
