@@ -27,6 +27,7 @@ Doki Doki Literature Club But Bad is a fan made project because we were extremel
  - Chu
     - Discord: .idontknowausername
     - TikTok: idk_weird43
+    - CashApp: $krodnu
  - SV
     
  - Chris
@@ -35,4 +36,9 @@ Doki Doki Literature Club But Bad is a fan made project because we were extremel
     - Discord: ellie2kind
  - Levino
     - Discord: _monk3
+    - CashApp: $krodnu
  - Chris
+
+**Trello Board**
+
+[Here!](https://trello.com/b/xQkUib4k/ddlcbb)
