@@ -1,24 +1,25 @@
 ## DDLCBB
 
 Doki Doki Literature Club But Bad is a fan made project because we were extremely bored 🤷
+*Btw our intro is the best*
 
-**ROLES LIST**
+#ROLES LIST
 
  - Fae: Artist & VA
  - Chu: Artist & VA
  - SilverMoon: VA
- - Chris: VA
+ - Gino: VA & Writer
  - Ellie: Artist & VA
  - Levino: Coder & Director
+#
 
-- still no writer etc
-
-**VA List W/ Char**
+#VA List W/ Char
  - Chu: Yuri
  - Fae: Natsuki
  - SilverMoon: Monika
  - Ellie: Sayori
- - Chris: Mc
+ - Gino: Mc
+#
 
 # SOCIALS
 
@@ -37,7 +38,7 @@ Doki Doki Literature Club But Bad is a fan made project because we were extremel
  - Levino
     - Discord: _monk3
     - CashApp: $krodnu
- - Chris
+ - Gino
 #
 **Trello Board**
 
