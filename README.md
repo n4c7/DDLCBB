@@ -1,4 +1,4 @@
-## DDLCBB
+# DDLCBB
 
 Doki Doki Literature Club But Bad is a fan made project because we were extremely bored 🤷
 *Btw our intro is the best*
