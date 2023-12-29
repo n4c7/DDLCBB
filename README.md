@@ -20,7 +20,7 @@ Doki Doki Literature Club But Bad is a fan made project because we were extremel
  - Ellie: Sayori
  - Chris: Mc
 
-## SOCIALS
+# SOCIALS
 
  - Fae
     - Discord: emuootorii
@@ -38,7 +38,7 @@ Doki Doki Literature Club But Bad is a fan made project because we were extremel
     - Discord: _monk3
     - CashApp: $krodnu
  - Chris
-
+#
 **Trello Board**
 
 [Here!](https://trello.com/b/xQkUib4k/ddlcbb)
