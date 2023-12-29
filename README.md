@@ -1,4 +1,5 @@
 # DDLCBB
+![ddlcbb_logo](https://github.com/n4c7/DDLCBB/assets/129309569/fda73a36-045f-4e86-8797-35b7d58a3133)
 
 Doki Doki Literature Club But Bad is a fan made project because we were extremely bored 🤷
 *Btw our intro is the best*
