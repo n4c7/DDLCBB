@@ -18,12 +18,12 @@ define config.name = _("Project Levido")
 ## Determines if the title given above is shown on the main menu screen. Set
 ## this to False to hide the title.
 
-define gui.show_name = True
+define gui.show_name = False
 
 
 ## The version of the game.
 
-define config.version = "1.0"
+define config.version = "69"
 
 
 ## Text that is placed on the game's about screen. Place the text between the
@@ -37,7 +37,7 @@ define gui.about = _p("""
 ## distribution. This must be ASCII-only, and must not contain spaces, colons,
 ## or semicolons.
 
-define build.name = "ProjectLevido"
+define build.name = "DDLCBB"
 
 
 ## Sounds and music ############################################################
@@ -62,7 +62,7 @@ define config.has_voice = True
 ## the player is at the main menu. This file will continue playing into the
 ## game, until it is stopped or another file is played.
 
-# define config.main_menu_music = "main-menu-theme.ogg"
+# define config.main_menu_music = "mmusic.mp3"
 
 
 ## Transitions #################################################################
@@ -73,18 +73,18 @@ define config.has_voice = True
 
 ## Entering or exiting the game menu.
 
-define config.enter_transition = dissolve
-define config.exit_transition = dissolve
+define config.enter_transition = fade(4)
+define config.exit_transition = fade(4)
 
 
 ## Between screens of the game menu.
 
-define config.intra_transition = dissolve
+define config.intra_transition = fade(1)
 
 
 ## A transition that is used after a game has been loaded.
 
-define config.after_load_transition = None
+define config.after_load_transition = fade(4)
 
 
 ## Used when entering the main menu after the game has ended.
@@ -120,13 +120,13 @@ define config.window_hide_transition = Dissolve(.2)
 ## Controls the default text speed. The default, 0, is infinite, while any other
 ## number is the number of characters per second to type out.
 
-default preferences.text_cps = 0
+default preferences.text_cps = 40
 
 
 ## The default auto-forward delay. Larger numbers lead to longer waits, with 0
 ## to 30 being the valid range.
 
-default preferences.afm_time = 15
+default preferences.afm_time = 10
 
 
 ## Save directory ##############################################################
@@ -150,7 +150,7 @@ define config.save_directory = "ProjectLevido-1703798611"
 ##
 ## The icon displayed on the taskbar or dock.
 
-define config.window_icon = "gui/window_icon.png"
+define config.window_icon = "images/ddlcbb_logo.png"
 
 
 ## Build configuration #########################################################
