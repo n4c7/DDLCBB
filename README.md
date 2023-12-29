@@ -3,7 +3,7 @@
 Doki Doki Literature Club But Bad is a fan made project because we were extremely bored 🤷
 *Btw our intro is the best*
 
-#ROLES LIST
+# ROLES LIST
 
  - Fae: Artist & VA
  - Chu: Artist & VA
@@ -13,7 +13,7 @@ Doki Doki Literature Club But Bad is a fan made project because we were extremel
  - Levino: Coder & Director
 #
 
-#VA List W/ Char
+# VA List W/ Char
  - Chu: Yuri
  - Fae: Natsuki
  - SilverMoon: Monika
