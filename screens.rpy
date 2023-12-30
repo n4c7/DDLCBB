@@ -1,4 +1,10 @@
-﻿################################################################################
+﻿define wipeUp = CropMove(1.0, "wipeup")
+define wipeUpdissolve = ComposeTransition(Dissolve(1.0), before=wipeUp)
+transform leftin:
+    xalign -3
+    linear 0.5 xalign 0.0
+
+################################################################################
 ## Initialization
 ################################################################################
 
@@ -81,6 +87,13 @@ style frame:
 ## In-game screens
 ################################################################################
 
+style charss:
+    xalign 0.5
+    yalign 0.5
+
+screen charss():
+    add "sy_goodsp.png" xalign 0.3 yalign 0.5
+    add "mk_sp.png" xalign 0.5 yalign 0.7
 
 ## Say screen ##################################################################
 ##
@@ -290,8 +303,9 @@ screen navigation():
     vbox:
         style_prefix "navigation"
 
-        xpos gui.navigation_xpos
-        yalign 0.5
+
+        yalign 0.7
+        xalign 0.06
 
         spacing gui.navigation_spacing
 
@@ -355,9 +369,12 @@ screen main_menu():
 
     add gui.main_menu_background
 
-    ## This empty frame darkens the main menu.
-    frame:
-        style "main_menu_frame"
+
+    add "images/mmmb.png"
+    #frame:
+    #    xalign 0.0
+    #    yalign 0.5
+
 
     ## The use statement includes another screen inside this one. The actual
     ## contents of the main menu are in the navigation screen.
@@ -1605,3 +1622,6 @@ style slider_vbox:
 style slider_slider:
     variant "small"
     xsize 900
+
+## Main Menu Characters ##
+

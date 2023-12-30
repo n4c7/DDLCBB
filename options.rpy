@@ -72,8 +72,8 @@ define config.has_voice = True
 
 ## Entering or exiting the game menu.
 
-define config.enter_transition = Dissolve(4)
-define config.exit_transition = Dissolve(4)
+define config.enter_transition = Dissolve(0.2)
+define config.exit_transition = Dissolve(0.2)
 
 
 
@@ -84,12 +84,12 @@ define config.intra_transition = Dissolve(1)
 
 ## A transition that is used after a game has been loaded.
 
-define config.after_load_transition = Dissolve(4)
+define config.after_load_transition = Dissolve(0.2)
 
 
 ## Used when entering the main menu after the game has ended.
 
-define config.end_game_transition = Dissolve(4)
+define config.end_game_transition = None
 
 
 ## A variable to set the transition used when the game starts does not exist.
@@ -150,7 +150,7 @@ define config.save_directory = "ProjectLevido-1703798611"
 ##
 ## The icon displayed on the taskbar or dock.
 
-define config.window_icon = "images/ddlcbb_logo.png"
+define config.window_icon = "images/logo.png"
 
 
 ## Build configuration #########################################################
