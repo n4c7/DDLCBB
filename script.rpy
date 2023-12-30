@@ -1,3 +1,8 @@
+# Outlines
+
+
+
+
 ##Define IMages
 image white = "#ffff"
 image res = "bg_res.png"
@@ -43,9 +48,11 @@ label splashscreen:
     queue sound "mtrackl.mp3" loop
     return
 
+
+
 label start:
     stop sound fadeout(0.5)
-    #play music "soundt.mp3" volume 0.01 loop
+    #play music "soundt.mp3" loop
     scene res
     uk "Heyyyyyyyyyyyyyyy"
     "I see an annoying pink haired rodent looking ass that looks like she just came out of an Isekai Harem type like 0 idea that she drawing more attention than fireworks during an execution type shit like "

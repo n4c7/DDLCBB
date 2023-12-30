@@ -1,8 +1,13 @@
-﻿define wipeUp = CropMove(1.0, "wipeup")
-define wipeUpdissolve = ComposeTransition(Dissolve(1.0), before=wipeUp)
-transform leftin:
-    xalign -3
-    linear 0.5 xalign 0.0
+﻿init:
+    image bg1 = gui.main_menu_background
+
+
+transform bg_transform1:
+    xoffset 0 yoffset 0
+    linear 5.0 xoffset -100 yoffset -100
+    linear 5.0 xoffset 0 yoffset 0
+    repeat
+
 
 ################################################################################
 ## Initialization
@@ -365,12 +370,9 @@ style navigation_button_text:
 screen main_menu():
 
     ## This ensures that any other menu screen is replaced.
-    tag menu
+    tag menu    
+    add "bg1" at bg_transform1
 
-    add gui.main_menu_background
-
-
-    add "images/mmmb.png"
     #frame:
     #    xalign 0.0
     #    yalign 0.5
@@ -1624,4 +1626,13 @@ style slider_slider:
     xsize 900
 
 ## Main Menu Characters ##
+
+
+# Define your style here
+style default:
+    font gui.name_text_font
+    size 22
+    color "#ffffff"
+    outlines [(2, "#bc59b2", 0, 0), (3, "#ff00e6", 1, 1)]
+
 

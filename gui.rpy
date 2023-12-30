@@ -33,11 +33,11 @@ define -2 gui.label_text_size = 28
 define -2 gui.notify_text_size = 16
 define -2 gui.title_text_size = 38
 ## The color used for a text button when it is neither selected nor hovered.
-define gui.idle_color = '#000000'
+define gui.idle_color = '#ffffff'
 
 ## The small color is used for small text, which needs to be brighter/darker to
 ## achieve the same effect.
-define gui.idle_small_color = '#000000'
+define gui.idle_small_color = '#ffffff'
 
 ## The color that is used for buttons and bars that are hovered.
 define gui.hover_color = '#cc6699'
@@ -67,10 +67,10 @@ define gui.title_text_outlines = [ (4, "#ff000034", 7, 7), (4, "#0011ffff", 3, 3
 define gui.text_font = "ArchitectsDaughter.ttf"
 
 ## The font used for character names.
-define gui.name_text_font = "ArchitectsDaughter.ttf"
+define gui.name_text_font = "DejaVuSans.ttf"
 
 ## The font used for out-of-game text.
-define gui.interface_text_font = "ArchitectsDaughter.ttf"
+define gui.interface_text_font = "DejaVuSans.ttf"
 
 ## The size of normal dialogue text.
 define gui.text_size = 33
@@ -94,8 +94,8 @@ define gui.title_text_size = 75
 ## Main and Game Menus #########################################################
 
 ## The images used for the main and game menus.
-define gui.main_menu_background = "images/mmbg.png"
-define gui.game_menu_background = "images/mmbg.png"
+define gui.main_menu_background = "images/mmmbg.png"
+define gui.game_menu_background = "images/mmmbg.png"
 
 
 ## Dialogue ####################################################################
@@ -104,7 +104,7 @@ define gui.game_menu_background = "images/mmbg.png"
 ## time.
 
 ## The height of the textbox containing dialogue.
-define gui.textbox_height = 275
+define gui.textbox_height = 278
 
 ## The placement of the textbox vertically on the screen. 0.0 is the top, 0.5 is
 ## center, and 1.0 is the bottom.
